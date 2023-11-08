@@ -3,4 +3,6 @@ Netflix Clone App: A replica of the Netflix platform showcasing categories and m
 Here, the Link for the Netflix clone hosted on Github: https://sahil9446.github.io/Netflix-clone
 
 Here, the Preview Image of the Netflix clone:
+
+
 ![Preview Image](Netflixclonepreview.png)
